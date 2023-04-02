@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Retriox - Promos</title>
+	<meta name="description" content="Promos To Support Retriox While You Get Products You Already Were Buying!">
+	<meta name="theme-color" content="#3C9504" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+
+	<!-- Custom CSS for this template -->
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+	<!-- Font -->
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
+
+	<!-- Bootstrap -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap-grid.min.css">
+	<link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.js">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
+        <!-- Scripts -->
+	<script src="https://cdn.rohanmcdermott.com/assets/js/clipboard.js"></script>
+</head>
+<body>
+
+
+	
+	<!-- Navbar -->
+	<div class="topnav" id="myTopnav">
+		<div class="max-width">
+			  <a href="https://retriox.net">Home</a>
+
+			  <a href="https://retriox.net/#about">News</a>
+			  <a href="https://retriox.net/#staff">Staff</a>
+			<a href="https://store.retriox.net">Store</a>
+			<a href="https://retriox.net/discord">Discord</a>
+			<a href="https://retriox.net/promos">Promos</a>
+			<a href="https://retriox.net/#partners">Partners</a>
+		  	  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+		</div>
+	</div>
+	<!-- End Navbar -->
+
+	<!-- Header (Banner) -->
+	<header id="head" class="parallax">
+		<h1><b> <a href="https://retriox.net">
+<img border="0" alt="Retriox" src="/retriox + Text Vector.png" width="60%" height="60%"></a> </b></h1>
+		<style>
+			.dropbtn {
+    background: rgba(0,0,0,0.6);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
+		</style>
+						<div class="container col-md-4">
+							<br>
+<center>
+			<div class="dropdown text-centerd dropbtn" style="size:100%">
+				<br>
+				<h2><strong id="ip">Join at mc.retriox.net</strong></h2>
+				<br>
+				<script>
+new Clipboard('#ip', {
+text: function() {
+return "mc.retriox.fun";
+}
+}).on('success', function(e) {
+document.getElementById("ip").innerHTML = 'Copied!';
+setTimeout(function(){
+document.getElementById("ip").innerHTML = 'Join at mc.retriox.net';
+}, 5000);
+});
+
+</script>
+			</div>
+	<p style="color:white;">Click on the ip to copy it!</p>
+</center>
+</div>
+			</div>
+	
+	</header>
+	<!-- End Header -->
+
+	<!-- About Section -->
+	<section id="promos">
+		<h1>Retriox Promos</h1>
+		<p>Support Retriox While Getting Products You Were Already Planning To Purchase!</p>
+		<hr>
+		<!-- First row of features -->
+		<div class="col NewsATT">
+		<div>&nbsp;</div>
+		<br>
+		<br>
+		<br>
+		&nbsp;
+<a href="https://www.stickermule.com/unlock?ref_id=4038801701&utm_content=250x250&utm_medium=embed&utm_source=invite" target="_blank"><img alt="Custom Stickers, Die Cut Stickers, Bumper Stickers - Sticker Mule" border="0" height="250" src="https://res.cloudinary.com/print-bear/image/upload/v1531752798/banners/stickermule-invite-friends-square.jpg" width="250" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://m.do.co/c/8d4e283cf80d" target="_blank"><img alt="Digital Ocean Coupon Code" border="0" height="100" src="https://retriox.fun/dologo.png" width="100" /></a>
+		<br>
+		<br>
+<a href="https://www.stickermule.com/p/640b6ab4?utm_source=google" target="_blank"><img alt="Custom Stickers, Die Cut Stickers, Bumper Stickers - Sticker Mule" border="0" height="40" src="https://dabuttonfactory.com/button.png?t=10+Custom+Stickers+For+%241&f=Calibri-Bold-Italic&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=round&bgt=gradient&bgc=f90&ebgc=b45f06" width="289" /></a>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+			</div>
+		<!-- End first row -->
+	<!-- Footer -->
+	<footer>
+		<div class="footer">
+			<div class="copyright-notice">
+				<!-- !! Replace this with your own domain !! -->
+				<p>&copy Retriox 2016-<script type="text/JavaScript">
+
+document.write(new Date().getFullYear());
+
+</script> | All rights reserved</p>
+			</div>
+		</div>
+	</footer>
+	<!-- End Footer -->
+	<!-- Smooth Scrolling Script (from https://goo.gl/uWLqWu) | Do not touch if you don't know what you're doing! -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+		  // Add smooth scrolling to all links
+		  $("a").on('click', function(event) {
+
+		    // Make sure this.hash has a value before overriding default behavior
+		    if (this.hash !== "" && $(this.hash) !== undefined && $(this.hash).offset() !== undefined) {
+		      // Prevent default anchor click behavior
+		      event.preventDefault();
+
+		      // Store hash
+		      var hash = this.hash;
+
+		      // Using jQuery's animate() method to add smooth page scroll
+		      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+		      $('html, body').animate({
+		        scrollTop: $(hash).offset().top
+		      }, 100, function(){
+		   
+		        // Add hash (#) to URL when done scrolling (default click behavior)
+		        window.location.hash = hash;
+		      });
+		    } // End if
+		  });
+		});
+	</script>
+	<!-- End Smooth Scrolling Script -->
+
+	<script>
+		function myFunction() {
+		    var x = document.getElementById("myTopnav");
+		    if (x.className === "topnav") {
+		        x.className += " responsive";
+		    } else {
+		        x.className = "topnav";
+		    }
+		}
+	</script>
+
+
+
+</body>
+</html>
